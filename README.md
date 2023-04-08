@@ -10,4 +10,8 @@ TODO
 # Examples
 <!-- Input-output examples -->
 TODO
+```python
+input = 'input'
+output = 'put output here'
+```
 # 
