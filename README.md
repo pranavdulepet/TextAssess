@@ -4,4 +4,10 @@ This NLP architecture takes in user input of a prompt and a response. Then, usin
 Models used are Google's BERT model and OpenAI's GPT-2, hosted on HuggingFace and trained on AWS's SageMaker platform.
 
 
-<h1>How Does it Work? </h1>
+# How Does it Work?
+<!-- Architectural diagram -->
+
+# Examples
+<!-- Input-output examples -->
+
+# 
