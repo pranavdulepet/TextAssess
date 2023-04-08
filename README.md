@@ -6,10 +6,11 @@ Models used are Google's BERT model and OpenAI's GPT-2, hosted on HuggingFace an
 
 # How Does it Work?
 <!-- Architectural diagram -->
-TODO
+To demonstrate how this model works, refer to the following architectural diagram:
+<img src="https://github.com/pranavdulepet/bitcamp-23/blob/main/flowchart.jpeg">
+
 # Examples
 <!-- Input-output examples -->
-TODO
 ```python
 import os
 input = 'input'
