@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModel
 from sklearn.metrics.pairwise import cosine_similarity
 from termcolor import colored
 import numpy as np
-import torch
+# import torch
 
 # Load Sentence-BERT model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained(
