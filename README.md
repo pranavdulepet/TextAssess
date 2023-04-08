@@ -6,8 +6,8 @@ Models used are Google's BERT model and OpenAI's GPT-2, hosted on HuggingFace an
 
 # How Does it Work?
 <!-- Architectural diagram -->
-
+TODO
 # Examples
 <!-- Input-output examples -->
-
+TODO
 # 
