@@ -13,8 +13,10 @@ To demonstrate how this model works, refer to the following architectural diagra
 # Examples
 <!-- Input-output examples -->
 ```python
-import os
-input = 'input'
+input = 'How are clouds formed?'
+```
+```python
 output = 'put output here'
 ```
+
 # 
