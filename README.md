@@ -21,7 +21,7 @@ user_response = '''Clouds form when the invisible water vapor in the air condens
 generated_response = '''How are clouds formed? We’ve all heard about them before (or maybe not, as we tend to get confused about whether or not the Earth is flat and whether or not we have a moon), but what exactly are clouds and how do they form? First, some words about atmospheric gases:
 So here’s a quick overview of the atmospheric elements that make up a cloud. Clouds form when solid particles (typically, rocks and ice) collide with each other. They grow by deposition of water, ice and dust. They grow by condensation, where the water/ice/dust particles are released and collected.'''
 
-similarity_score = '0.9271547'
+similarity_score = 0.9271547
 ```
 
 # 
