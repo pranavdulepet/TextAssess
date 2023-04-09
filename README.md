@@ -6,7 +6,7 @@ Models used are Google's BERT model and OpenAI's GPT-2, hosted on HuggingFace an
 
 # How Does it Work?
 <!-- Architectural diagram -->
-To demonstrate how this model works, refer to the following architectural diagram:
+To demonstrate how this model works, refer to the following architectural diagram. It incorporates our future plans in addition to what is currently implimented. At the moment, out output represents how well a user answered a prompt, and our metriic for that is a similarity between their response and a generated response. 
 <img src="https://github.com/pranavdulepet/bitcamp-23/blob/main/flowchart.jpeg">
 
 # Examples
