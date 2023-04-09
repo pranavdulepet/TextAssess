@@ -13,10 +13,11 @@ To demonstrate how this model works, refer to the following architectural diagra
 # Examples
 <!-- Input-output examples -->
 ```python
-input = 'How are clouds formed?'
-```
-```python
-output = 'put output here'
+# Given prompt/response pair and generated outputs
+prompt = 'How are clouds formed?'
+user_response = ''
+generated_response = ''
+similarity_score = ''
 ```
 
 # 
