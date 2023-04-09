@@ -16,10 +16,10 @@ To demonstrate how this model works, refer to the following architectural diagra
 # Given prompt/response pair and generated outputs
 prompt = 'How are clouds formed?'
 
-user_response = 'Clouds form when the invisible water vapor in the air condenses into visible water droplets or ice crystals. For this to happen, the parcel of air must be saturated, i.e. unable to hold all the water it contains in vapor form, so it starts to condense into a liquid or solid form.'
+user_response = '''Clouds form when the invisible water vapor in the air condenses into visible water droplets or ice crystals. For this to happen, the parcel of air must be saturated, i.e. unable to hold all the water it contains in vapor form, so it starts to condense into a liquid or solid form.'''
 
-generated_response = 'How are clouds formed? We’ve all heard about them before (or maybe not, as we tend to get confused about whether or not the Earth is flat and whether or not we have a moon), but what exactly are clouds and how do they form? First, some words about atmospheric gases:
-So here’s a quick overview of the atmospheric elements that make up a cloud. Clouds form when solid particles (typically, rocks and ice) collide with each other. They grow by deposition of water, ice and dust. They grow by condensation, where the water/ice/dust particles are released and collected.'
+generated_response = '''How are clouds formed? We’ve all heard about them before (or maybe not, as we tend to get confused about whether or not the Earth is flat and whether or not we have a moon), but what exactly are clouds and how do they form? First, some words about atmospheric gases:
+So here’s a quick overview of the atmospheric elements that make up a cloud. Clouds form when solid particles (typically, rocks and ice) collide with each other. They grow by deposition of water, ice and dust. They grow by condensation, where the water/ice/dust particles are released and collected.'''
 
 similarity_score = '0.9271547'
 ```
